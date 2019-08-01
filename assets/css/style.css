@@ -1,11 +1,15 @@
-.col-md-12{
+/* .col-md-12{
     background-color: black;
-}
+} */
 
 .container{
     background-color: beige;
-    float: left;
-    float: right;
+    
+    border-radius: 6px;
+    -moz-border-radius: 6px;
+    -webkit-border-radius: 6px;
+    padding: 20px;
+
     
 }
 
@@ -20,3 +24,16 @@
     text-align: center;
 }
 
+.aboutMeText{
+
+  text-align: center;  
+}
+
+.portfolioHeader{
+    text-align: center;
+}
+
+.footer{
+    color: white;
+    text-align: center
+}
