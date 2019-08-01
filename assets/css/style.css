@@ -1,0 +1,22 @@
+.col-md-12{
+    background-color: black;
+}
+
+.container{
+    background-color: beige;
+    float: left;
+    float: right;
+    
+}
+
+.body{
+    background-color: black;
+}
+
+.quote{
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px;
+    text-align: center;
+}
+
